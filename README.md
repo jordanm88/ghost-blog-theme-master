@@ -1,9 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://godofredo.ninja/ghost-theme/simply/">
-    <img src="https://user-images.githubusercontent.com/10253167/103450308-a2757c00-4c82-11eb-8bc3-29b09520fc58.png" width="150px" alt="Simply free theme for Ghost" />
+    <img src="https://user-images.githubusercontent.com/10253167/103450308-a2757c00-4c82-11eb-8bc3-29b09520fc58.png" width="150px" alt="Simply free theme for Ghost" />-->
   </a>
 </p>
-
+<!--
 <p align="center">
     <a href="https://godofredo.ninja/ghost-theme/simply/introduction">Docs</a>
     ·
@@ -23,7 +23,7 @@
     </a>
     <a href="https://opencollective.com/simply">
         <img src="https://opencollective.com/simply/tiers/badge.svg" alt="opencollective" />
-    </a>
+    </a>-->
 </p>
 
 <p align="center">
@@ -33,19 +33,19 @@
     <br />
     It is available for free so you can use on your site.
 </p>
-
+<!--
 <p align="center">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url">
         <img src="https://user-images.githubusercontent.com/10253167/103444000-877b1b80-4c32-11eb-8377-7bedd46dbdf8.gif" alt="donate" />
     </a>
-</p>
-
-&nbsp;
-
-[![Simply free theme for ghost](https://user-images.githubusercontent.com/10253167/162076408-0356f347-6d0b-47ad-a640-e8ee7a2494af.jpg)](https://godofredo.ninja/ghost-theme/simply/)
+</p>-->
+<!--
+&nbsp;-->
+<!--
+[![Simply free theme for ghost](https://user-images.githubusercontent.com/10253167/162076408-0356f347-6d0b-47ad-a640-e8ee7a2494af.jpg)](https://godofredo.ninja/ghost-theme/simply/)-->
 
 ## Featured
-
+<!--
 - Simply Settings
   - [Social Media](https://godofredo.ninja/ghost-theme/simply/settings/#socialmedia)
   - [Search](https://godofredo.ninja/ghost-theme/simply/settings/#search)
@@ -217,8 +217,8 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 - [Inter Font Family](https://github.com/rsms/inter/)
 - [PT Serif Font Family](https://fonts.google.com/specimen/PT+Serif)
 - [Safari Light - Mockup](https://www.uplabs.com/posts/safari-light-version)
-- [Tiny Slider](https://github.com/ganlanyuan/tiny-slider)
+- [Tiny Slider](https://github.com/ganlanyuan/tiny-slider)-->
 
 ## Copyright & License
 
-Copyright (c) 2017-2022 GodoFredo - Released under the [GPLv3 license](LICENSE)
+Copyright (c) 2022 J Mitchell
